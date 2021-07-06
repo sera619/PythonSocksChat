@@ -9,7 +9,7 @@
 - IDE (Microsoft Visual Studio Code) [IDE = integrated development environment = integrierte Entwicklungsumgebung = Der Editor zum Bearbeiten des Codes.
 - Unter Windows: Kommandokonsole | Unter Linux/OS: Terminal
 
-## Okay installiert und nun?
+## Okay, installiert und nun?
 
 Windows:
 - Lade dir von dieser Seite die .zip herunter (grüner Button am seiten Anfang)
