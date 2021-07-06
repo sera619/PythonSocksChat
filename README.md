@@ -1,15 +1,15 @@
 # PythonSocksChat
 - Simple socks base application.
 
-# Anleitung
+# ℹ️ Anleitung ℹ️
 
-## Was brauche ich?
+## ❓ Was brauche ich?
 
-- Python (Stelle sicher das du beim installieren das Häkchen bei "Python zum System PATH hinzufügen" gesetzt hast!)
-- IDE (Microsoft Visual Studio Code) [IDE = integrated development environment = integrierte Entwicklungsumgebung = Der Editor zum Bearbeiten des Codes.
+- Python ( ❗ Stelle sicher das du beim installieren das Häkchen bei "Python zum System PATH hinzufügen" gesetzt hast ❗ )
+- IDE (Microsoft Visual Studio Code) (IDE = integrated development environment = integrierte Entwicklungsumgebung = Der Editor zum Bearbeiten des Codes.)
 - Unter Windows: Kommandokonsole | Unter Linux/OS: Terminal
 
-## Okay, installiert und nun?
+## ❓ Okay, installiert und nun?
 
 Windows:
 - Lade dir von dieser Seite die .zip herunter (grüner Button am seiten Anfang)
@@ -22,11 +22,11 @@ Windows:
 - Klicke auf File im oberen Fenstermenü und wähle "open Folder" - Gebe dort das Verzeichnis der heruntergeladenen Datei an
 - Nun kannst du im Fileexplorer von Studio Code die beiden Scripte im Ordner "src/script/ ClientPyChat.py | ServerPyChat.py öffnen 
 
-## Ja und wie starte ich das Ding?
+## ❓ Ja und wie starte ich das Ding?
 
 - Öffne das Verzeichnis im Explorer
 - Öffne im Verzeichnis den Ordner "script"  (Pfad '../src/srcipt')
-  ---- MARKIERUNG ----
+  🚨 ---- MARKIERUNG ---- 🚨
 - Halte Shift gedrückt und Rechtsklicke mit der Maus in einen freien Bereich im Ordner
 - Wähle hier "Powershell Fenster öffnen"
 - in der PowerShell 'cmd' eintippen und mit Enter bestätigen
