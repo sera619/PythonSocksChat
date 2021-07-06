@@ -5,7 +5,9 @@ import select
 HEADER_LENGTH = 10
 
 # hier die richtige IP und PORT angeben die IP MUSS! in "" eingefasst eingetragen werden
-# PORT ohne "" die änderungen hier müssen dann indentisch mit dem ClientPyChat.py schript sein sein
+# PORT ohne "" die änderungen hier müssen dann indentisch mit dem ClientPyChat.py schript sein
+# DEFAULT Einstellungen sind für den Offline gebrauch im eigenen Netzwerk:
+
 IP = "127.0.0.1"
 PORT = 1234
 
