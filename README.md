@@ -1,2 +1,2 @@
 # PythonSocksChat
- Simple socks base application
+- Simple socks base application.
