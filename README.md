@@ -26,6 +26,7 @@ Windows:
 
 - Öffne das Verzeichnis im Explorer
 - Öffne im Verzeichnis den Ordner "script"  (Pfad '../src/srcipt')
+  ---- MARKIERUNG ----
 - Halte Shift gedrückt und Rechtsklicke mit der Maus in einen freien Bereich im Ordner
 - Wähle hier "Powershell Fenster öffnen"
 - in der PowerShell 'cmd' eintippen und mit Enter bestätigen
