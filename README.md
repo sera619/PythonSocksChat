@@ -5,7 +5,7 @@
 
 ## Was brauche ich?
 
-- Python (Stelle sicher das du beim installieren das Häckchen bei "Python zum System PATH hinzufügen" gesetzt hast!)
+- Python (Stelle sicher das du beim installieren das Häkchen bei "Python zum System PATH hinzufügen" gesetzt hast!)
 - IDE (Microsoft Visual Studio Code) [IDE = integrated development environment = integrierte Entwicklungsumgebung = Der Editor zum Bearbeiten des Codes.
 - Unter Windows: Kommandokonsole | Unter Linux/OS: Terminal
 
