@@ -1,7 +1,6 @@
 import socket
 import select
 
-
 HEADER_LENGTH = 10
 
 # hier die richtige IP und PORT angeben die IP MUSS! in "" eingefasst eingetragen werden
@@ -63,7 +62,10 @@ def receive_message(client_socket):
         return False
 
 
+
+
 while True:
+
 
     read_sockets, _, exception_sockets = select.select(
         sockets_list, [], sockets_list)
