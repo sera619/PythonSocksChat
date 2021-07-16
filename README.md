@@ -7,8 +7,8 @@
 
 ## ❓ Was brauche ich?
 
-- WinRar (gibt es [hier](https://www.heise.de/download/product/winrar-1380/download)
-- Das eigentlich Programm (gibt es [hier](https://github.com/sera619/PythonSocksChat/releases/download/v1.0.5/Chat_winX64.rar)
+- WinRar (gibt es [hier](https://www.heise.de/download/product/winrar-1380/download))
+- Das eigentlich Programm (gibt es [hier](https://github.com/sera619/PythonSocksChat/releases/download/v1.0.5/Chat_winX64.rar))
 Das war es schon.
 
 ## ❓ Okay, ich habe WinRar und das Programm.
