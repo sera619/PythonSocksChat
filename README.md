@@ -1,7 +1,7 @@
 # PythonSocksChat
 - Simple socks base application.
 
-# ℹ️ Anleitung: Installtion und Nutzung ℹ️
+# ℹ️ Anleitung: Installation und Nutzung ℹ️
 
 🌟Folgende Anleitung ist für die einfach Nutzung. Weiter unten findest du die Anleitung zum selber bauen! 🌟
 
