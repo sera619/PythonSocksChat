@@ -1,7 +1,30 @@
 # PythonSocksChat
 - Simple socks base application.
 
-# ℹ️ Anleitung ℹ️
+# ℹ️ Anleitung: Installtion und Nutzung ℹ️
+
+🌟Folgende Anleitung ist für die einfach Nutzung. Weiter unten findest du die Anleitung zum selber bauen! 🌟
+
+## ❓ Was brauche ich?
+
+- WinRar (gibt es [hier](https://www.heise.de/download/product/winrar-1380/download)
+- Das eigentlich Programm (gibt es [hier](https://github.com/sera619/PythonSocksChat/releases/download/v1.0.5/Chat_winX64.rar)
+Das war es schon.
+
+## ❓ Okay, ich habe WinRar und das Programm.
+
+- Entpacke das WinRar Verzeichnis in dein Verzeichnis deiner Wahl.
+- Öffne das eben entpackte Verzeichnis dort findest du 2 .exe
+- Starte den Server immer als erstes! (PyhtonChatServer.exe)
+- Starte die PythonChatClient.exe (der eigentliche "Chat")
+- gebe einen Nutzernamen ein den du gerne verwenden möchtest
+- Starte eine 2. PythonChatClient.exe und wähle auch hier einen Nutzernamen
+- Fertig beide Clienten koennen nun über den Server kommunizieren
+
+# ℹ️ Anleitung: Do it yourself! ℹ️
+
+🌟 Folgende Anleitung ist zum selber machen. Hier braucht es etwas mehr. 🌟
+📺 🎬 [YouTube Video](https://www.youtube.com/watch?v=H01qDY6g914) zur Anleitung. 
 
 ## ❓ Was brauche ich?
 
